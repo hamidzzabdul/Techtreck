@@ -1,7 +1,7 @@
 # TechTreck - Ecommerce Solution
 
 ###Home Page
-![TechTreck Preview](client/src/assets/techtreck.png)
+![TechTreck Preview](./client/src/assets/techtreck.png)
 
 ## Introduction
 
@@ -37,13 +37,13 @@ TechTreck is a full-fledged ecommerce platform designed to provide users with an
 - **Responsive Design:** Enjoy a consistent shopping experience across all devices, including desktops, tablets, and smartphones.
 
 #Products Page
-![TechTreck Preview](client/src/assets/products.png)
+![TechTreck Preview](./client/src/assets/products.png)
 
 #Single Product
-![TechTreck Preview](client/src/assets/product.png)
+![TechTreck Preview](./client/src/assets/product.png)
 
 #Cart
-![TechTreck Preview](client/src/assets/Cart.png)
+![TechTreck Preview](./client/src/assets/Cart.png)
 
 ## Technologies Used
 
